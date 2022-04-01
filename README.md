@@ -10,7 +10,7 @@ The objective of this
 
 # Screenshot:
 
-![Password Generator Screenshot](./)
+![Password Generator Screenshot](./password%20generator%20screenshot.PNG)
 
 ---
 
